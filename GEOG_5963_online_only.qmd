@@ -1,0 +1,20 @@
+---
+format: revealjs
+---
+<!-- not including title/author lets it start on first slide.-->
+
+
+{{< include modules/title_slide_for_curry_only.qmd >}}
+
+## What are we doing today?
+
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+

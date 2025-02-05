@@ -1,0 +1,440 @@
+---
+title: "Making the most of papers you've found"
+author:
+  name: Claire Curry, PhD
+  affiliation: Science Librarian, STEM Services
+  email: cmcurry@ou.edu
+format:
+  revealjs:
+    logo: logo.png
+    # footer: "STEM Services"
+    slide-number: true
+    #show-notes: separate-page #https://revealjs.com/pdf-export/
+    preview-links: true
+    slide-tone: true
+    controls: true
+    smaller: true
+    center-title-slide: false
+    hash: true
+editor: source
+---
+
+# Today's outline
+
+- Take known papers and find more
+
+- Read in-depth
+
+- Links for your use:
+
+  - This slide show as pdf ([osf.io/z3wk6](https://osf.io/z3wk6)) or html ([osf.io/5kruz](https://osf.io/5kruz))
+  
+  - Closed captioning (automated) available through Zoom at [bit.ly/oulib-czoom](https://bit.ly/oulib-czoom)
+  
+  
+![](QR_code_bitlyoulib-czoom.png){fig-alt="QR code to Zoom for closed captioning"}
+
+
+
+# Ways to find papers
+
+- Searching as you need info
+
+  - Non-comprehensive/casual searches in databases, google scholar, or catalog
+  
+  - Systematic searches
+
+- Asking colleagues/advisor
+
+- Keeping up with very new literature
+  
+  - Table of contents
+  
+  - Citation alerts
+  
+  - Popular science outlets / press releases
+
+
+# Ready to find more?
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column style='display: flex; justify-content: center; align-items: center;'}
+
+- Citation treeing
+
+- Related papers features
+
+- Keyword/author harvesting
+
+- Newer methods (in development)
+
+:::
+
+::: {.column width=30% style='display: flex; justify-content: center; align-items: center;'}
+
+![](being_ready.jpg){fig-alt="A smiling dog wearing a straw hat in a car, representing readiness for adventure." align="center" width=80%}
+
+:::
+
+::::
+
+
+
+
+## Citation treeing {.center}
+
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width="40%" style='display: flex; justify-content: center; align-items: center;'}
+
+
+![](citation_treeing.jpeg){fig-alt="A gray and white cat with big yellow eyes smells flowers in a redbud tree, representing citation treeing." width=80%}
+
+:::
+
+
+::: {.column width="60%" style='display: flex; justify-content: center; align-items: center;'}
+
+
+- Manual treeing to past works
+
+- Web of Science and Google Scholar: past and future
+
+:::
+
+::::
+
+
+## "Related papers" features
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+
+![](related_papers.jpg){fig-alt="Five cats on and near a patio, eating.  They represent similar papers.  Cats are papers, I guess." width=80%}
+
+:::
+
+::: {.column width=60% style='display: flex; justify-content: center; align-items: center;'}
+
+- Varies by database and website
+
+  - PubMed
+  
+    - Similar articles
+    
+    - Medical Subject Headings (MeSH)
+  
+  - Web of Science
+  
+    - Categories
+    
+    - Citation Topics Meso/Micro
+    
+  - ProQuest Natural Sciences
+  
+    - Suggested sources
+    
+    - Indexing terms
+
+- Check in sidebars or bottom of page
+
+- Look for labels: thesaurus, indexing, controlled vocabulary, subject header
+
+
+:::
+
+::::
+
+
+
+##  Newer methods
+
+
+Citation diagrams
+  
+  - [Researchrabbit.ai](https://www.researchrabbit.ai/) (free)
+  
+  - [Connectedpapers.com](https://www.connectedpapers.com/) (pay)
+
+
+
+
+
+##  Common AI tools "hallucinate"
+
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+![](AI_hallucination.JPG){fig-alt="A gray and white cat with big, haunted yellow eyes wears a pink laced collar.  He represents AI hallucinations, though this photo is actually real." fig-align="center"}
+
+:::
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+![](focus.jpg){fig-alt="A concerned German Shepherd Dog wears a black ear protection cover that makes her face look like a seal's.  She represents something weird you might see with AI hallucinations, though this photo is actually real." fig-align="center" width=80%}
+:::
+
+::::
+
+
+
+::: notes
+
+  - General purpose, non-constrained AI invents plausible-sounding papers
+  
+  - Think about what you mean by AI - text searching?  synthesis?
+
+  - Data ethics
+
+:::
+
+
+
+## Keyword harvesting
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+
+![](harvest_sort.png){fig-alt="A wooden table covered with bowls of tomatoes, green beans, shelled dried cowpeas, scissors, and various small containers and jars.  This represents sorting your harvest of papers and keywords."}
+:::
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+- Use new-to-you terms in simple or systematic searches
+
+- Author names for databases
+
+- Author names to get to research group pages
+
+- Controlled vocabulary for databases
+
+:::
+
+::::
+
+
+## What's enough?
+
+
+![](search_scope.jpg){fig-alt="A large gray tabby cat sits contemplatively in a very large cardboard box tipped on its side.  A small box sits next to him in the box.  A medium box is to the left of the big box containing the cat.  This represents figuring out a suitable scope and scale for your searches." fig-align="center"}
+
+
+
+## Check beyond page one of results
+
+
+
+![](first_page_results.jpg){fig-alt="A gray and white tuxedo cat skips over the first bowl (or search page) to get to a second bowl." fig-align="center"}
+
+
+
+
+## Have you re-ordered your results?
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=40% style='justify-content: center; align-items: center;'}
+
+![](reorder_your_search_short.jpg){fig-alt="A gray and white cat with big yellow eyes appears to be hovering upside down, with his fluffy white paws touching a bookshelf in front of him containing various non-fiction titles." width=60%}
+:::
+
+::: {.column width=60% style='display: flex; justify-content: center; align-items: center;'}
+
+- Date
+
+- Relevance
+
+- Citation count
+
+:::
+
+::::
+
+
+## Have you talked to your librarian?
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=50% style='justify-content: center; align-items: center;'}
+
+![](keyboard_cat.JPG){fig-alt="A gray tabby cat wearing a white collar with red and black striped tie sits in front of a black keyboard on the floor." width=80%}
+
+:::
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+- You've covered most or all of the relevant databases
+
+  - [guides.ou.edu](https://guides.ou.edu)
+  
+- Your search comprehensiveness matches the scope of what you need to find
+
+  - Some facts or methods
+  
+  - A narrative review (most common for dissertation/thesis)
+  
+  - A formal systematic review 
+
+
+:::
+
+::::
+
+
+
+## Peer review
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+![](peer_review.JPG){fig-alt="A very elderly black cat with yellow eyes and chewed-up ears looks at the camera, perhaps judgementally.  He represents peers reviewing your work." fig-align="center"}
+
+:::
+
+::: {.column width=60% style='display: flex; justify-content: center; align-items: center;'}
+
+- Informal
+
+  - Ask your advisor
+  
+  - Ask your senior lab members
+  
+  - Be cautious of time constraints
+
+- Formal
+
+  - Reviewers will let you know if you've missed something...
+
+:::
+
+::::
+
+
+# What next?
+
+![](cat_struggles_with_academic_book.JPG){fig-alt="A gray tabby cat slumps on a couch arm next to a very thick book open half-way.  He represents weariness and struggle." fig-align="center"}
+
+
+## In-depth analysis
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+
+![](sift.jpg){fig-alt="A black and tan shepherd dog sits smiling next to a long rope dog toy.  A gray tabby cat sits on the rope toy, using it as a chin pillow.  Both animals look at the camera from their place on a blue and white diamond-patterned rug.  They represent two points of view of an object (in this case the toy)."}
+
+:::
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+### [SIFT Worksheet](https://docs.google.com/document/d/1YtDcIlnWRrN9w8D4g1OnKqEaMb_mYqevclNbEMLHaxw/edit)
+
+![](qrcode_sift.png){fig-alt="QR code for sift worksheet"}
+
+:::
+
+::::
+
+
+
+## Study what works
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+![A small calico cat rests her chin on a non-fiction paperback.](reading.jpg)\
+
+:::
+
+::: {.column width=60% style='display: flex; justify-content: center; align-items: center;'}
+
+  - Review papers
+  
+  - Intros/discussions
+
+  - General examples: [guides.ou.edu/LitReviews](https://guides.ou.edu/LitReviews/)
+  
+  - [School of Biological Sciences catalog search for dissertations and theses](https://ou-primo.hosted.exlibrisgroup.com/primo-explore/search?query=sub,contains,Microbiology%20and%20Plant%20Biology,%20Dept.%20of,OR&query=sub,contains,Biology,%20Dept.%20of,AND&tab=default_tab&search_scope=ou_alma&sortby=rank&vid=OUNEW&lang=en_US&mode=advanced&offset=0)
+
+:::
+
+::::
+
+
+## Organize your work
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+
+![](no_structure.JPG){fig-alt="A gray tabby cat with yellow eyes peeks out from a messy pile of crinkled paper.  Only his face, no ears, are visible.  The paper represents unorganized research."}
+
+:::
+
+::: {.column width=40% style='display: flex; justify-content: center; align-items: center;'}
+
+- Worksheets
+
+  - [Instructions](https://case.fiu.edu/writingcenter/online-resources/_assets/synthesis-matrix-2.pdf)
+
+  - [Downloadable Word Doc and Spanish versions](https://case.fiu.edu/writingcenter/online-resources/index.html)
+  
+- Software
+
+  - Citation management
+    
+    - [Zotero](https://guides.ou.edu/c.php?g=964126&p=6964471) - open source, OU Libraries supported
+    
+    - [EndNote](https://itsupport.ou.edu/TDClient/35/Norman/Requests/ServiceDet?ID=54&SIDs=92) - licensed by OU IT, get support from EndNote
+  
+  - [PowerNotes](https://libraries.ou.edu/content/powernotes)
+
+
+:::
+
+::::
+
+
+
+
+
+
+## Contact me
+
+:::: {.columns style='display: flex !important; height: 90%;'}
+
+::: {.column width=50% style='display: flex; justify-content: center; align-items: center;'}
+![](cat_scream.JPG){fig-alt="A gray tabby cat sits at a wooden dinner table and screams loudly.   He represents a modality of contacting your librarian." align="center"}
+
+
+  
+:::
+
+::: {.column width=50%  style='justify-content: center; align-items: center;'}
+
+![](QR_code_bitlyoulib-class_survey.png){fig-alt="QR code to class survey"}
+
+- Survey: [bit.ly/oulib-class](https://bit.ly/oulib-class)
+
+- Email: [cmcurry@ou.edu](cmcurry@ou.edu)
+
+- Appointment calendar: [libcal.ou.edu/appointments/cmcurry](https://libcal.ou.edu/appointments/cmcurry)
+
+
+
+
+:::
+
+::::

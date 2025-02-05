@@ -1,0 +1,22 @@
+---
+title: "Exploring the literature"
+format: revealjs
+---
+
+## Quarto
+
+<!-- https://quarto.org/docs/authoring/includes.html -->
+
+## Bullets
+
+{{< include /modules/evidence_synthesis_review.qmd >}}
+
+## Code
+
+When you click the **Render** button a presentation will be generated that includes both content and the output of embedded code. You can embed code like this:
+
+```{r}
+1 + 1
+```
+
+
