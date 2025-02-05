@@ -1,0 +1,20 @@
+# Ok, let's make our own work more reproducible
+
+## Searching quick review
+
+- Take a look at your Homework 2 worksheet (we did it in class)
+
+## Searching in depth
+
+- This is a learned skill
+- Places you can get, use, and cite existing searches
+
+## Tools beyond Zotero
+
+- [Covidence](covidence.org)
+
+  - in one year pilot (12 months more if we don't renew)
+
+  - Email me cmcurry@ou.edu to get an account
+
+- [The Evidence Review Accelerator](https://tera-tools.com/)
