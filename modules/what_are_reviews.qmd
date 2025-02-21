@@ -1,31 +1,24 @@
 ## Broader terms
   - Evidence synthesis
   - Literature review
+
+## Terms you'll see a lot (or not)
 - Narrative review
   - Most [undergrad and beginning grad resources](https://teachbritannica.com/academic-toolkits/mastering-the-literature-review/) will be about this type
   - This is a perfectly good type of review!
 - Systematic review
-  - Scoping/mapping review (counts)
+  - Scoping/mapping review (statistics are essentially counts)
   - Meta-analysis (statistics beyond counts)
-  - So many other types
+  - So many other types (see paper)
 - Structured or systematized review
   - When you don't have a full team (2+)
   
   
 ## What distinguishes a narrative review from these others?
 
-- Formal structure
+- Less formal structure
 
-- Reproducibility
+- Lack of reproducibility
 
-## What is reproducibility?
-
-- Have you tried reproducing methods from a paper, review or empirical?
-
-
-## How can we make a literature review reproducible?
-
-- Ideas for what you need to write down
-
-## PRISMA and other reporting frameworks
+- What did you notice about the searching methods in review papers you've read before, if anything?
 
