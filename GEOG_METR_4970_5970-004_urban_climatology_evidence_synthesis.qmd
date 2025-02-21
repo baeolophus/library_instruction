@@ -1,70 +1,121 @@
 ---
-title: "Evidence synthesis (or how many kinds of reviews are there)"
-format: revealjs
+title: "Evidence synthesis"
+subtitle: "A review of reviews"
+author: "Claire M. Curry, University of Oklahoma Libraries"
+format: 
+  revealjs:
+    logo: img/logo.png
+    # footer: "STEM Services"
+    slide-number: true
+    #show-notes: separate-page #https://revealjs.com/pdf-export/
+    preview-links: true
+    slide-tone: true
+    controls: true
+    smaller: true
+    center-title-slide: false
+    hash: true
+editor: source
 ---
 
 
 <!-- https://quarto.org/docs/authoring/includes.html -->
 
-{{< include /modules/title_slide_for_curry_only.qmd >}}
+{{< include /modules/summary_slide_for_review_of_reviews.qmd >}}
+
+## Logistics
+
+- Documents to have ready
+
+  - Grant and Booth (2009), Table 1
+
+  - Homework 2 search strategy file
+
+  - Homework 4 worksheet
+
+  - One of the four review papers listed on Homework 4
+
+- Where to sit
+
+  - Pick a table with people who have chosen the same paper, 4-5 people max
 
 # Types of evidence synthesis (aka reviews)
 
-## Review the pre-class assignment
+## Context for pre-class reading
 - Grant and Booth (2009)'s Table 1 lists 14 types of reviews
   - Other perspectives, there are so many variations 
   - "48 review types were identified and categorised into seven families" Sutton et al. 2019^[Sutton, A. , Clowes, M. , Preston, L. and Booth, A. (2019), Meeting the review family: exploring review types and associated information retrieval requirements. Health Info Libr J, 36: 202-222., which has been published in final form at https://doi.org/10.1111/hir.12276.]
+  
+  
   
 <!-- Content about evidence synthesis overview-->
 
 {{< include /modules/what_are_reviews.qmd >}}
 
+<!-- Content specific to urban climatology course-->
+## The worksheet
 
+- Pick a paper!  (Q1)
 
+- Open the file/get out the printout!
 
-## What type of reviews are they?
+- Get into a group with others who chose that paper, max 4 people per group
 
-- Stewart 2011
+- Pick a scribe
   
+## Review types in Grant and Booth (Q2)
+
+- Search
+
+- Appraisal
+
+  - What do you need to evaluate in your search results?
+
+- Synthesis
+
+  - How will you synthesize the facts you've found in results?
+
+- Analysis
+
+  - How do you plan to synthesis
+
+## Strengths and weaknesses (Q3)
+
   - systematic critical review
 
-  - systematized review
+    - systematized review
   
-- Masson et al. 2020
-
   - generic literature review or overview
 
-  - narrative review is another common term
-
-- Wang et al. 2021
+    - narrative review is another common term
 
   - critical review
 
-- Li et al. 2024
-  
   - meta-analysis
 
 ## What did you think of the search strategies?
 
-How did they compare to your homework 2?
 
-- Stewart 2011 - not documented at all
+- How does your chosen paper compare to homework 2 search? (Q5)
 
-- Masson et al. 2020 - not documented at all
-
-- Wang et al. 2021 - describes terms but strategy not shown
-
-- Li et al. 2024 - search terms explicitly named in supplementary materials
+- How does it help or hinder your ability to follow up on the research in the paper? (Q6)
 
 
-## What we cover today
+<!-- Content about reproducibility as a concept and then how that applies to reviews-->
 
-- What is reproducibility
-- Reproducibility in reviews
+{{< include /modules/reproducibility_in_reviews.qmd >}}
 
-
-<!-- Content about reproducibility in searching-->
-
+<!-- Content about how to apply this to your own review-->
 {{< include /modules/making_your_review_reproducible.qmd >}}
 
-<!-- Activity about reproducibility in searching -->
+<!-- Urban climatology project note-->
+
+## I'm not writing a systematic review, why should I care?
+
+- You can evaluate other work's reproducibility
+
+- You waste less time on searching the same thing
+
+- You spend less time reading irrelevant literature 
+
+- You understand how the research methods can affect strength and weakeness of synthesis conclusions (it's not just a list of objective facts)
+
