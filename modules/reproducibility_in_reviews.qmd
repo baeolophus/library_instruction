@@ -1,0 +1,15 @@
+
+## What is reproducibility?
+
+- Have you tried reproducing methods from a paper, review or empirical?
+
+- Definitions/links
+
+## How can we make a literature review, in particular, reproducible?
+
+- When you give someone instructions, what would you include?
+
+
+## PRISMA and other reporting frameworks
+
+- Standardizing what methods we need to reproduce, honed over time and for different types of reviews
