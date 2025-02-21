@@ -1,15 +1,45 @@
 # Ok, let's make our own work more reproducible
 
-## Searching quick review
 
-- Take a look at your Homework 2 worksheet (we did it in class)
+
+## We have a search - what to do with it?
+
+- What part of PRISMA does your search belong in?
 
 ## Searching in depth
 
 - This is a learned skill
+
+- You can adapt and cite other peoples' searches
+
+## Search filters
+
 - Places you can get, use, and cite existing searches
 
+  - searchRxiv, [cabidigitallibrary.org/journal/searchrxiv](https://www.cabidigitallibrary.org/journal/searchrxiv)
+    - use very broad terms
+  
+  - [geography filters at ISSG](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/geography)
+  - [quality of life filters at ISSG](https://sites.google.com/a/york.ac.uk/issg-search-filters-resource/home/quality-of-life)
+
+  - [More filter links from University of South Australia](https://guides.library.unisa.edu.au/SystematicReviews/SearchFilters)
+
+## How do your searches compare?
+
+- What do you like about these searches?
+
+- What would you add to your search?
+
+
 ## Tools beyond Zotero
+
+- Step-by-step process
+  
+  - Use a protocol template
+  
+    - [PRISMA template]()
+    
+    - [Systematized (one person) template]()
 
 - [Covidence](covidence.org)
 
@@ -18,3 +48,4 @@
   - Email me cmcurry@ou.edu to get an account
 
 - [The Evidence Review Accelerator](https://tera-tools.com/)
+
