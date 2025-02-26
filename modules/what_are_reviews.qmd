@@ -1,22 +1,35 @@
+# What are reviews?
+
 ## Broader terms
   - Evidence synthesis
   - Literature review
 
-## Terms you'll see a lot (or not)
+## More specific terms
+
 - Narrative review
+
   - Most [undergrad and beginning grad resources](https://teachbritannica.com/academic-toolkits/mastering-the-literature-review/) will be about this type
+
   - This is a perfectly good type of review!
-- Systematic review
+
+  - Grant and Booth (2009) one of few places that doesn't use this as a category
+  
+- Systematic reviews (multiple types)
+
+  -"Regular" systematic review
+
   - Scoping/mapping review (statistics are essentially counts)
+
   - Meta-analysis (statistics beyond counts)
-  - So many other types (see paper)
+
 - Structured or systematized review
+
   - When you don't have a full team (2+)
   
   
 ## What distinguishes a narrative review from these others?
 
-- Less formal structure
+- Less formal structure in methods reporting
 
 - Lack of reproducibility
 
