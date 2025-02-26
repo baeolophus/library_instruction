@@ -28,9 +28,9 @@ editor: source
 
   - Grant and Booth (2009), Table 1
 
-  - Homework 2 search strategy file
+  - Homework 2 worksheet (search strategy, to compare)
 
-  - Homework 4 worksheet
+  - Homework 4 worksheet (to do in class)
 
   - One of the four review papers listed on Homework 4
 
@@ -38,14 +38,21 @@ editor: source
 
   - Pick a table with people who have chosen the same paper, 4-5 people max
 
-# Types of evidence synthesis (aka reviews)
 
 ## Context for pre-class reading
 - Grant and Booth (2009)'s Table 1 lists 14 types of reviews
   - Other perspectives, there are so many variations 
-  - "48 review types were identified and categorised into seven families" Sutton et al. 2019^[Sutton, A. , Clowes, M. , Preston, L. and Booth, A. (2019), Meeting the review family: exploring review types and associated information retrieval requirements. Health Info Libr J, 36: 202-222., which has been published in final form at https://doi.org/10.1111/hir.12276.]
-  
-  
+
+## A newer classification
+- "48 review types were identified and categorised into seven families" Sutton et al. 2019^[Sutton, A. , Clowes, M. , Preston, L. and Booth, A. (2019), Meeting the review family: exploring review types and associated information retrieval requirements. Health Info Libr J, 36: 202-222., which has been published in final form at https://doi.org/10.1111/hir.12276.]
+  - Traditional reviews
+  - Systematic reviews
+  - Qualitative systematic review
+  - Review of reviews
+  - Rapid reviews
+  - Mixed methods reviews
+  - Purpose-specific reviews
+- "Labels are only useful when supported by sufficient consensus or authoritative guidance to remove ambiguity on methods and processes."
   
 <!-- Content about evidence synthesis overview-->
 
@@ -58,39 +65,56 @@ editor: source
 
 - Open the file/get out the printout!
 
-- Get into a group with others who chose that paper, max 4 people per group
+- Get into a group with others who chose that paper, max 3-5 people per group
 
-- Pick a scribe
+- Pick a note-taker and speaker
   
-## Review types in Grant and Booth (Q2)
+  - Rotate both so everyone gets practice
+  
+## Classify your paper using Grant and Booth table 1 (Q2)
+
+::: {.absolute top="30%" left="4%" width="50%"}
 
 - Search
 
+  - How the authors find literature
+  
+  - Terms used in field
+
 - Appraisal
 
-  - What do you need to evaluate in your search results?
+  - Assessment of literature quality
+  
+  - Inclusion/exclusion criteria
+  
+:::
+
+::: {.absolute top="30%" left="54%" width="50%"}
 
 - Synthesis
 
-  - How will you synthesize the facts you've found in results?
+  - Narrative
+  
+  - Graphical
+  
+  - Tabular
 
 - Analysis
 
-  - How do you plan to synthesis
+  - Narrative
+  
+  - Numerical
+  
+:::
+
 
 ## Strengths and weaknesses (Q3)
 
-  - systematic critical review
+Put page numbers or sections or phrases from your paper
 
-    - systematized review
-  
-  - generic literature review or overview
+![](qr_codes/qrcode_padlet_reviews.png)
 
-    - narrative review is another common term
 
-  - critical review
-
-  - meta-analysis
 
 ## What did you think of the search strategies?
 
@@ -117,5 +141,7 @@ editor: source
 
 - You spend less time reading irrelevant literature 
 
-- You understand how the research methods can affect strength and weakeness of synthesis conclusions (it's not just a list of objective facts)
+- You understand how the research methods can affect strength and weakness of synthesis conclusions (it's not just a list of objective facts)
 
+<!-- Contact and survey slide -->
+{{< include /modules/contact_slide_for_workshop_style.qmd >}}
