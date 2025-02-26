@@ -1,13 +1,34 @@
 
-## What is reproducibility?
+## What is reproducibility and replicability?
 
-- Have you tried reproducing methods from a paper, review or empirical?
+- Have you tried reproducing or replicating methods from a paper (whether a review or empirical)?
 
-- Definitions/links
+![](qr_codes/qrcode_padlet_reviews.png)
+
+## What is reproducibility, officially?
+
+- Well, it depends on your field^[Plesser HE. Reproducibility vs. Replicability: A Brief History of a Confused Terminology. Frontiers in Neuroinformatics 2018 Jan 18;11:76. [doi: 10.3389/fninf.2017.00076](https://pmc.ncbi.nlm.nih.gov/articles/PMC5778115/)]
+
+-"Replication crisis" has become a topic of discussion in and out of science/engineering/medicine^[“3. Understanding Reproducibility and Replicability.” 2019. In Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. https://doi.org/10.17226/25303]
+
+## Clearer terms proposed
+
+- Goodman et al. (2016)^[Goodman S. N., Fanelli D., Ioannidis J. P. A. (2016). What does research reproducibility mean? Sci. Transl. Med. 8:341ps12. 10.1126/scitranslmed.aaf5027] proposes
+
+  - Methods reproducibility: "Methods reproducibility is meant to capture the original meaning of reproducibility, that is, the ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."
+
+  - Results reproducibility: "Results reproducibility refers to what was previously described as “replication,” that is, the production of corroborating results in a new study, having followed the same experimental methods."
+
+  - Inferential reproducibility: "Inferential reproducibility, not often recognized as a separate concept, is the making of knowledge claims of similar strength from a study replication or reanalysis."
+
+
+
 
 ## How can we make a literature review, in particular, reproducible?
 
 - When you give someone instructions, what would you include?
+
+- Go back to what you found in Q5 and Q6
 
 
 ## PRISMA and other reporting frameworks
