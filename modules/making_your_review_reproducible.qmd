@@ -8,11 +8,7 @@
 
 - This is a learned skill
 
-- You can adapt and cite other peoples' searches
-
-## Search filters (search hedges)
-
-- Places you can get, use, and cite existing searches
+- Places you can get, use, and cite existing searches (called search filters or search hedges)
 
   - searchRxiv, [cabidigitallibrary.org/journal/searchrxiv](https://www.cabidigitallibrary.org/journal/searchrxiv)
     - use very broad terms
@@ -22,24 +18,19 @@
 
   - [More filter links from University of South Australia](https://guides.library.unisa.edu.au/SystematicReviews/SearchFilters)
 
-## How do your searches compare?
-
-- What do you like about these searches?
-
-- What would you add to your search?
-
-
 ## Tools beyond Zotero
 
 - Step-by-step process
   
   - Use a protocol template
   
-    - [PRISMA template]()
+    - PRISMA template
+      - [osf.io/nbyhk](https://osf.io/nbyhk)
     
-    - [Systematized (one person) template]()
+    - Systematized (one person) template
+      - [osf.io/ezqpd](https://osf.io/ezqpd/)
 
-- [Covidence](covidence.org)
+- [Covidence.org](https://covidence.org)
 
   - in one year pilot (12 months more if we don't renew)
 
