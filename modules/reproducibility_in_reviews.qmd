@@ -30,7 +30,18 @@
 
 - Go back to what you found in Q5 and Q6
 
+![](qr_codes/qrcode_padlet_reviews.png)
 
-## PRISMA and other reporting frameworks
 
-- Standardizing what methods we need to reproduce, honed over time and for different types of reviews
+## Reporting frameworks
+
+- Standardizing what methods we need to reproduce, honed over time and for different types of reviews^[Evidence Synthesis Institute: Guidelines and Reporting Standards, access at https://www.youtube.com/watch?v=Se9dktabypE]
+
+- PRISMA and its variations^[[prisma-statement.org](https://www.prisma-statement.org/)]
+  - "Preferred Reporting Items for Systematic reviews and Meta-Analyses"
+
+- ROSES^[[roses-reporting.com](https://www.roses-reporting.com/)]
+  - "RepOrting standards for Systematic Evidence Syntheses in environmental research"
+
+- NIRO-SR^[[niro-sr.netlify.app/](https://niro-sr.netlify.app/)]
+   - "Non-Interventional, Reproducible, and Open (NIRO) Systematic Reviews"
