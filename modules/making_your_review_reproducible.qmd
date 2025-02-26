@@ -1,10 +1,8 @@
-# Ok, let's make our own work more reproducible
-
-
-
-## We have a search - what to do with it?
+## We have a search already, is it enough?
 
 - What part of PRISMA does your search belong in?
+
+- Is it comprehensive enough for your purpose?
 
 ## Searching in depth
 
@@ -12,7 +10,7 @@
 
 - You can adapt and cite other peoples' searches
 
-## Search filters
+## Search filters (search hedges)
 
 - Places you can get, use, and cite existing searches
 
