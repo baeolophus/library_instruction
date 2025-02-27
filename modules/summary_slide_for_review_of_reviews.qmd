@@ -1,15 +1,8 @@
 
 ## A review of reviews
 
-![](../img/keyboard_cat.jpg)
-
-<!-- gram picture
-QR/link for captions, space for captions
-libstem email -->
-
 - Types of evidence synthesis (also known as reviews)
 - Reproducibility
 - Making your review work reproducible
 
-Contact reminder: cmcurry@ou.edu
-Zoom link: [bit.ly/oulib-czoom](https://oklahoma.zoom.us/j/2104210371?pwd=Z3RMeXl6dEs3NS9mN0FoVVp5RTBDQT09#success)
+![Zoom link: bit.ly/oulib-czoom](../qr_codes/QR_code_bitlyoulib-czoom.png)
