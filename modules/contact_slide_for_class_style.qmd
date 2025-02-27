@@ -1,7 +1,9 @@
 
 ## Contact me to talk more!
 
-![ou.libwizard.com/f/datasurvey](../qr_codes/qrcode_ou-libwizard-com.png)
+![](../qr_codes/QR_code_bitlyoulib-class_survey.png)
+
+Survey at QR or type URL: [bitly.com/oulib-class](https://bitly.com/oulib-class)
 
 Email [cmcurry@ou.edu](mailto:cmcurry@ou.edu)
 
