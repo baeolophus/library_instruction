@@ -26,7 +26,7 @@ editor: source
 
 - Documents to have ready
 
-  - Grant and Booth (2009), Table 1
+  - Grant and Booth (2009)
 
   - Homework 2 worksheet (search strategy, to compare)
 
