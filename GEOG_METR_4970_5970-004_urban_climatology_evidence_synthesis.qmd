@@ -128,6 +128,8 @@ Put page numbers or sections or phrases from your paper
 
 {{< include /modules/reproducibility_in_reviews.qmd >}}
 
+
+
 <!-- Content about how to apply this to your own review-->
 {{< include /modules/making_your_review_reproducible.qmd >}}
 
@@ -135,13 +137,13 @@ Put page numbers or sections or phrases from your paper
 
 ## I'm not writing a systematic review, why should I care?
 
-- You can evaluate other work's reproducibility
-
 - You waste less time on searching the same thing repeatedly
 
 - You spend less time skimming irrelevant literature 
 
+- You can evaluate reproducibility and transparency of other work
+
 - You understand how the research methods can affect strength and weakness of synthesis conclusions (it's not just a list of objective facts)
 
 <!-- Contact and survey slide -->
-{{< include /modules/contact_slide_for_workshop_style.qmd >}}
+{{< include /modules/contact_slide_for_class_style.qmd >}}
