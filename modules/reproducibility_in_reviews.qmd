@@ -1,3 +1,5 @@
+# Reproducibility
+
 
 ## What is reproducibility and replicability?
 
@@ -15,12 +17,13 @@
 
 - Goodman et al. (2016)^[Goodman S. N., Fanelli D., Ioannidis J. P. A. (2016). What does research reproducibility mean? Sci. Transl. Med. 8:341ps12. 10.1126/scitranslmed.aaf5027] proposes
 
-  - Methods reproducibility: "Methods reproducibility is meant to capture the original meaning of reproducibility, that is, the ability to implement, as exactly as possible, the experimental and computational procedures, with the same data and tools, to obtain the same results."
+  - Methods reproducibility: Enough details to recreate procedures
 
-  - Results reproducibility: "Results reproducibility refers to what was previously described as “replication,” that is, the production of corroborating results in a new study, having followed the same experimental methods."
+  - Results reproducibility: Use methods reproducibility to replicate results
 
   - Inferential reproducibility: "Inferential reproducibility, not often recognized as a separate concept, is the making of knowledge claims of similar strength from a study replication or reanalysis."
 
+    - Not getting into this today but important!
 
 
 
